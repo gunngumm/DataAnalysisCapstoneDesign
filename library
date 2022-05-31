@@ -1,0 +1,11 @@
+from bs4 import BeautifulSoup
+from collections import defaultdict
+from gensim.models.word2vec import Word2Vec
+import numpy as np
+import pandas as pd
+import re
+from selenium import webdriver
+from sklearn.cluster import KMeans
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics import adjusted_rand_score
+import time
