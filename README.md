@@ -2,5 +2,3 @@
 #### Team : 데분캡티마
 #### Class : 데이터분석캡스톤디자인
 
-
-![image](https://user-images.githubusercontent.com/83567716/172589652-d4d0d80c-d518-4331-832c-88c81923c752.png)
