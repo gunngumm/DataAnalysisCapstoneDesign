@@ -29,7 +29,7 @@
   + nltk
   + numpy
   + pandas
-  + pyLDSvis
+  + pyLDAvis
   + selenium
   + sklearn
   + smart_open
